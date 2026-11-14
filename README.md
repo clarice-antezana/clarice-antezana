@@ -1,6 +1,6 @@
 <h align="center">
   <h1 align="center">Olá, eu sou a Clarice Antezana</h1>
-  <p align="center"><b>Estudante de Análise e Desenvolvimento de Sistemas & Profissional Multidisciplinar</b></p>
+  <p align="center"><b>Profissional Multidisciplinar e Estudante de Análise e Desenvolvimento de Sistemas</b></p>
 </h>
 
 ---
